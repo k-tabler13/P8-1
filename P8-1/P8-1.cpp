@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//functions and global var here 
+//functions and global var here . 
 
 int countVowel(string str);
 
