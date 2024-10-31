@@ -1,4 +1,4 @@
-// counts the amount of vowels in given letters 
+// counts the amount of vowels in given letters .
 
 #include <iostream> 
 #include <string>
